@@ -7,3 +7,4 @@ def get_choices():
     choices ={"player": player_choice, "computer": computer_choice}
 choices = get_choices()
 print(choices)
+
