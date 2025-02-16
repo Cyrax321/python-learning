@@ -41,3 +41,4 @@ print("the suare is ", sqr)
 print("the multiplication is",mul)
 
 
+
