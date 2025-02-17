@@ -7,3 +7,4 @@ print("sum of two names are",c)
 #enter first name joe 
 #enter second name ham
 #sum of two names are 6
+
