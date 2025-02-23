@@ -7,6 +7,3 @@ for x in files:
 #joker
 #memories
 
-
-for x in range(10):
-       print(x)
