@@ -8,7 +8,7 @@ dict = {
         "chemistry" : 87.5,
         "maths" : 95.2,
         "biology" : 66.4,
-        "english" : 45.1
+        "english" : 45.1,
        },
 
 }
